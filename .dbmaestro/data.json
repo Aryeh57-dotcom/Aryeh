@@ -1,0 +1,30 @@
+{
+  "Projects": [
+    {
+      "GlobalData": {
+        "ProjectId": "329e92f2-9a71-4a19-87bc-7da394674790",
+        "ProjectName": "Aryeh1",
+        "DBTypeName": "SQL Server",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true,
+          "DBConfiguration": {},
+          "NumberOfRevisionsInViewHistory": 10,
+          "NumberOfTagsInBuildOptions": 10,
+          "PreventCommitObjectWithConflict": false,
+          "UseCache": null
+        },
+        "ProjectArchitecture": 0,
+        "LocalDirectory": "C:\\Users\\aryehb\\Documents\\projectName"
+      },
+      "UserData": [
+        {
+          "UserName": "Aryeh57-dotcom",
+          "DatabasesData": []
+        }
+      ]
+    }
+  ],
+  "GlobalConfigurations": null
+}
